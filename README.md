@@ -27,9 +27,6 @@
 | 📫 **Reach me**     | mangajananya@gmail.com |
 | ⚡ **Fun fact**     | I train models & make chai ☕ |
 
----
-
-## 🌐 Connect With Me
 
 <div align="center">
 
