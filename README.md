@@ -18,7 +18,7 @@
 
 | 🔍 | Detail |
 |---|---|
-| 👩‍💻 **Name**         | Ananya Mangaj |
+| 👩‍💻 **Nme**         | Ananya Mangaj |
 | 🎓 **Education**    | Final Year B.E. · AI & Data Science |
 | 🤖 **Interests**    | ML · Deep Learning · Generative AI |
 | 🛠️ **Tech Stack**   | Python · TensorFlow · PyTorch · Sklearn |
